@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kushagra
 - 👀 I’m interested in coding and learning
-- 🌱 I’m currently learning C++,C 
+- 🌱 I’m currently learning C++,C,Python
 
 
 <!---
